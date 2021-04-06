@@ -1,0 +1,27 @@
+body {
+    background-color: #9dc79f;
+    font-family: monospace;
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+    color: aliceblue
+}
+
+.line {
+    height: 6px;
+    width: 100px;
+    background-color: cadetblue;
+    margin: 8px auto;
+}
+
+h1 {
+    font-size: 30px;
+    color: beige;
+    font-family: fantasy;
+}
+
+.image {
+    border-radius: 99px;
+}
